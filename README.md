@@ -1,5 +1,41 @@
 # 💫 About Me:
-🌩️ Passionate about Cloud Computing and AWS<br><br>🧠 Exploring Cloud Architecture, Serverless Applications, and DevOps<br><br>💻 Skilled in Python, SQL, HTML, CSS, and Cloud Services<br><br>📊 Worked on Data Visualization with Amazon QuickSight<br><br>🚀 Built AWS projects including S3 static hosting, API Gateway + Lambda APIs, and multi-tier architectures<br><br>📚 Currently learning more about cloud security and scalable systems<br><br>What I'm Working On<br><br>Building cloud-based applications using AWS<br><br>Practicing serverless architecture and cloud deployment<br><br>Improving Python and cloud automation skills<br><br>Interests<br><br>Cloud Engineering ☁️<br><br>DevOps & Automation ⚙️<br><br>Data Visualization 📊<br><br>Scalable Web Applications 🌐
+```html id="ghreadme01"
+🌩️ Passionate about Cloud Security, AWS, and Cybersecurity<br><br>
+
+🧠 Exploring SOC Operations, SIEM Monitoring, DevSecOps, and Secure Cloud Architectures<br><br>
+
+💻 Skilled in Python, SQL, Linux, Git/GitHub, AWS Cloud Services, HTML, and CSS<br><br>
+
+🔐 Hands-on exposure to AWS services including IAM, VPC, S3, CloudWatch, and CloudTrail<br><br>
+
+📊 Worked on cloud monitoring dashboards, serverless applications, CI/CD pipelines, and AWS multi-tier architectures<br><br>
+
+🚀 Built AWS projects including S3 static hosting, API Gateway + Lambda APIs, Cloud Monitoring Dashboards, and CI/CD automation<br><br>
+
+📚 Currently learning Wazuh SIEM, Networking Fundamentals, Kubernetes Security, and Cloud Automation<br><br>
+
+What I'm Working On<br><br>
+
+☁️ Building hands-on SOC and Cloud Security labs<br><br>
+
+📊 Practicing SIEM monitoring, log analysis, and alert triage<br><br>
+
+⚙️ Improving DevSecOps, Docker, Terraform, and cloud automation skills<br><br>
+
+🐧 Strengthening Linux, networking, and security tooling knowledge<br><br>
+
+Interests<br><br>
+
+☁️ Cloud Security<br><br>
+
+🔵 SOC / Blue Team Operations<br><br>
+
+⚙️ DevSecOps & Automation<br><br>
+
+📊 Security Monitoring & SIEM<br><br>
+
+🌐 Scalable & Secure Cloud Infrastructure
+```
 
 
 ## 🌐 Socials:

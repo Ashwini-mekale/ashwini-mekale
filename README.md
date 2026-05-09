@@ -1,41 +1,42 @@
 # 💫 About Me:
-```html id="ghreadme01"
-🌩️ Passionate about Cloud Security, AWS, and Cybersecurity<br><br>
 
-🧠 Exploring SOC Operations, SIEM Monitoring, DevSecOps, and Secure Cloud Architectures<br><br>
+🌩️ Passionate about Cloud Security, AWS, and Cybersecurity
 
-💻 Skilled in Python, SQL, Linux, Git/GitHub, AWS Cloud Services, HTML, and CSS<br><br>
+🧠 Exploring SOC Operations, SIEM Monitoring, DevSecOps, and Secure Cloud Architectures
 
-🔐 Hands-on exposure to AWS services including IAM, VPC, S3, CloudWatch, and CloudTrail<br><br>
+💻 Skilled in Python, SQL, Linux, Git/GitHub, AWS Cloud Services, HTML, and CSS
 
-📊 Worked on cloud monitoring dashboards, serverless applications, CI/CD pipelines, and AWS multi-tier architectures<br><br>
+🔐 Hands-on exposure to AWS services including IAM, VPC, S3, CloudWatch, and CloudTrail
 
-🚀 Built AWS projects including S3 static hosting, API Gateway + Lambda APIs, Cloud Monitoring Dashboards, and CI/CD automation<br><br>
+📊 Worked on cloud monitoring dashboards, serverless applications, CI/CD pipelines, and AWS multi-tier architectures
 
-📚 Currently learning Wazuh SIEM, Networking Fundamentals, Kubernetes Security, and Cloud Automation<br><br>
+🚀 Built AWS projects including S3 static hosting, API Gateway + Lambda APIs, Cloud Monitoring Dashboards, and CI/CD automation
 
-What I'm Working On<br><br>
+📚 Currently learning Wazuh SIEM, Networking Fundamentals, Kubernetes Security, and Cloud Automation
 
-☁️ Building hands-on SOC and Cloud Security labs<br><br>
+## What I'm Working On
 
-📊 Practicing SIEM monitoring, log analysis, and alert triage<br><br>
+☁️ Building hands-on SOC and Cloud Security labs
 
-⚙️ Improving DevSecOps, Docker, Terraform, and cloud automation skills<br><br>
+📊 Practicing SIEM monitoring, log analysis, and alert triage
 
-🐧 Strengthening Linux, networking, and security tooling knowledge<br><br>
+⚙️ Improving DevSecOps, Docker, Terraform, and cloud automation skills
 
-Interests<br><br>
+🐧 Strengthening Linux, networking, and security tooling knowledge
 
-☁️ Cloud Security<br><br>
+## Interests
 
-🔵 SOC / Blue Team Operations<br><br>
+☁️ Cloud Security
 
-⚙️ DevSecOps & Automation<br><br>
+🔵 SOC / Blue Team Operations
 
-📊 Security Monitoring & SIEM<br><br>
+⚙️ DevSecOps & Automation
+
+📊 Security Monitoring & SIEM
 
 🌐 Scalable & Secure Cloud Infrastructure
-```
+
+
 
 
 ## 🌐 Socials:
